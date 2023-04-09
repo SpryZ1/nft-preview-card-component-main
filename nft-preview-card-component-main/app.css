@@ -145,6 +145,7 @@ body {
     color: var(--white);
     font-weight: var(--fw-bold);
     margin-top: 20px;
+    font-size: 1.5rem;
 }
 
 .header:hover {
